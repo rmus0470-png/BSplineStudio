@@ -45,3 +45,7 @@ Development Philosophy
 Build functional tools, test them in real applications, and improve them through practical experience.
 
 The goal is to make advanced CAD functionality easier to access without sacrificing precision or control.
+
+## Development Notes
+
+[Development notes](DEVELOPMENT.md)
